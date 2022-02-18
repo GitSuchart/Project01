@@ -55,6 +55,7 @@
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
 <<<<<<< HEAD
+<<<<<<< HEAD
 ========IT
                                      Suchart Auensupa is the best uuuuuuuuu
 ========IT
@@ -65,6 +66,9 @@
                                      nattawut jaidee is the best uuuuuuuuu
 >>>>>>> 7b7999ec8aeda44709ac9ff6f0380295903c259b
 >>>>>>> 90dc5b63d79cf485c91430f9ce8b22fbd8c99c2b
+=======
+oat oat oat oat oat
+>>>>>>> 2a42feaf7b52948707bfbc9fce1ddec5862ec8d8
                                 </div>
                             </div>
                         </div>
