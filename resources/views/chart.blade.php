@@ -54,7 +54,15 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+<<<<<<< HEAD
                                      Suchart Auensupa is the best uuuuuuuuu
+=======
+<<<<<<< HEAD
+                                    TEST: Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
+=======
+                                     nattawut jaidee is the best uuuuuuuuu
+>>>>>>> 7b7999ec8aeda44709ac9ff6f0380295903c259b
+>>>>>>> 90dc5b63d79cf485c91430f9ce8b22fbd8c99c2b
                                 </div>
                             </div>
                         </div>
