@@ -54,7 +54,11 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+<<<<<<< HEAD
                                     TEST: Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
+=======
+                                     nattawut jaidee is the best uuuuuuuuu
+>>>>>>> 7b7999ec8aeda44709ac9ff6f0380295903c259b
                                 </div>
                             </div>
                         </div>
